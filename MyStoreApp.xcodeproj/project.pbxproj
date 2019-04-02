@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6BADE8632253F49600B81137 /* TVCItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BADE8622253F49600B81137 /* TVCItem.swift */; };
+		6BADE8652253F74B00B81137 /* VCListItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BADE8642253F74B00B81137 /* VCListItems.swift */; };
+		6BBA28842252CC78004146FE /* VCAddItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BBA28832252CC78004146FE /* VCAddItem.swift */; };
 		6BFAE42B224F0554009A4A73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFAE42A224F0554009A4A73 /* AppDelegate.swift */; };
 		6BFAE42D224F0554009A4A73 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFAE42C224F0554009A4A73 /* ViewController.swift */; };
 		6BFAE430224F0554009A4A73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BFAE42E224F0554009A4A73 /* Main.storyboard */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6BADE8622253F49600B81137 /* TVCItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVCItem.swift; sourceTree = "<group>"; };
+		6BADE8642253F74B00B81137 /* VCListItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCListItems.swift; sourceTree = "<group>"; };
+		6BBA28832252CC78004146FE /* VCAddItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCAddItem.swift; sourceTree = "<group>"; };
 		6BFAE427224F0554009A4A73 /* MyStoreApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStoreApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BFAE42A224F0554009A4A73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BFAE42C224F0554009A4A73 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,7 +65,10 @@
 				6BFAE42A224F0554009A4A73 /* AppDelegate.swift */,
 				6BFAE42C224F0554009A4A73 /* ViewController.swift */,
 				6BFAE42E224F0554009A4A73 /* Main.storyboard */,
+				6BADE8642253F74B00B81137 /* VCListItems.swift */,
+				6BADE8622253F49600B81137 /* TVCItem.swift */,
 				6BFAE434224F0554009A4A73 /* Assets.xcassets */,
+				6BBA28832252CC78004146FE /* VCAddItem.swift */,
 				6BFAE436224F0554009A4A73 /* LaunchScreen.storyboard */,
 				6BFAE439224F0554009A4A73 /* Info.plist */,
 				6BFAE431224F0554009A4A73 /* MyStoreApp.xcdatamodeld */,
@@ -142,6 +151,9 @@
 				6BFAE433224F0554009A4A73 /* MyStoreApp.xcdatamodeld in Sources */,
 				6BFAE42D224F0554009A4A73 /* ViewController.swift in Sources */,
 				6BFAE42B224F0554009A4A73 /* AppDelegate.swift in Sources */,
+				6BBA28842252CC78004146FE /* VCAddItem.swift in Sources */,
+				6BADE8632253F49600B81137 /* TVCItem.swift in Sources */,
+				6BADE8652253F74B00B81137 /* VCListItems.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
